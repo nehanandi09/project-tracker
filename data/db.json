@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner aGAINN!!!",
+      "details": "lorem ipsum vlasfj lsvla vlsdjfkn",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing mail",
+      "details": "lorem ipsum",
+      "complete": false
+    }
+  ]
+}
